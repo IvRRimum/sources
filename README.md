@@ -12,6 +12,9 @@ Tmux is a terminal multiplexer
 ####[VIM](http://www.vim.org/)
 Powerfull editor.
 
+####[DataZenit] (https://datazenit.com/)
+Web-based database administration tool for MySQL and PostgreSQL with schema builder, data grid and real-time charts.
+
 ## Gems(Ruby)
 
 ####[BrakeMan](https://github.com/presidentbeef/brakeman)
