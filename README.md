@@ -40,3 +40,14 @@ Tests
 
 ####[SLIM](https://github.com/slim-template/slim-rails)
 Slim-rails provides Slim generators for Rails 3 and 4. It was based on haml-rails and it does basically the same.
+
+## Style FrameWorks
+
+####[Foundation Zurb](https://github.com/zurb/foundation)
+Foundation is the most advanced responsive front-end framework in the world.
+
+####[Twitter bootstrap](https://github.com/twbs/bootstrap)
+Bootstrap is a sleek, intuitive, and powerful front-end framework for faster and easier web development.
+
+####[Skeleton](https://github.com/dhg/Skeleton)
+Skeleton is a simple, responsive boilerplate to kickstart any responsive project.
