@@ -35,7 +35,7 @@ Multiple language module for lolita.
 ####[Cucumber](https://github.com/cucumber/cucumber-rails)
 Tests in english!
 
-####[Cucumber](https://github.com/rspec/rspec)
+####[Rspec](https://github.com/rspec/rspec)
 Tests
 
 ####[SLIM](https://github.com/slim-template/slim-rails)
