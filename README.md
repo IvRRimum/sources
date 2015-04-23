@@ -32,5 +32,11 @@ Navigation CRUD for lolita.
 ####[Lolita-translation](https://github.com/ithouse/lolita-translation)
 Multiple language module for lolita.
 
+####[Cucumber](https://github.com/cucumber/cucumber-rails)
+Tests in english!
+
+####[Cucumber](https://github.com/rspec/rspec)
+Tests
+
 ####[SLIM](https://github.com/slim-template/slim-rails)
 Slim-rails provides Slim generators for Rails 3 and 4. It was based on haml-rails and it does basically the same.
