@@ -15,6 +15,9 @@ Powerfull editor.
 ####[DataZenit] (https://datazenit.com/)
 Web-based database administration tool for MySQL and PostgreSQL with schema builder, data grid and real-time charts.
 
+####[PurifyCSS] (https://github.com/purifycss/purifycss)
+Detects which CSS classes your app is using and creates a file without the unused CSS.
+
 ## Gems(Ruby)
 
 ####[BrakeMan](https://github.com/presidentbeef/brakeman)
@@ -37,6 +40,9 @@ Tests in english!
 
 ####[Rspec](https://github.com/rspec/rspec)
 Tests
+
+####[Vanity](https://github.com/assaf/vanity)
+A/b testing
 
 ####[SLIM](https://github.com/slim-template/slim-rails)
 Slim-rails provides Slim generators for Rails 3 and 4. It was based on haml-rails and it does basically the same.
