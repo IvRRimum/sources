@@ -47,6 +47,9 @@ A/b testing
 ####[SLIM](https://github.com/slim-template/slim-rails)
 Slim-rails provides Slim generators for Rails 3 and 4. It was based on haml-rails and it does basically the same.
 
+####[FriendlyId](https://github.com/norman/friendly_id)
+FriendlyId is the "Swiss Army bulldozer" of slugging and permalink plugins for Active Record
+
 ## Style FrameWorks
 
 ####[Foundation Zurb](https://github.com/zurb/foundation)
