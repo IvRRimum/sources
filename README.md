@@ -50,6 +50,9 @@ Slim-rails provides Slim generators for Rails 3 and 4. It was based on haml-rail
 ####[FriendlyId](https://github.com/norman/friendly_id)
 FriendlyId is the "Swiss Army bulldozer" of slugging and permalink plugins for Active Record
 
+####[Cocon](https://github.com/nathanvda/cocoon)
+Cocoon makes it easier to handle nested forms.
+
 ## Style FrameWorks
 
 ####[Foundation Zurb](https://github.com/zurb/foundation)
