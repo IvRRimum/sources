@@ -20,6 +20,9 @@ Detects which CSS classes your app is using and creates a file without the unuse
 
 ## Gems(Ruby)
 
+####[Activerecord Colored Log Subscriber](https://github.com/customink/activerecord-colored_log_subscriber)
+This gem is a tested backport of that colorized logging feature
+
 ####[BrakeMan](https://github.com/presidentbeef/brakeman)
 Brakeman is a static analysis tool which checks Ruby on Rails applications for security vulnerabilities.
 
