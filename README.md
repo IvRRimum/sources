@@ -20,6 +20,9 @@ Detects which CSS classes your app is using and creates a file without the unuse
 
 ## Gems(Ruby)
 
+####[ClientSideValidations](https://github.com/DavyJonesLocker/client_side_validations)
+ClientSideValidations made easy for your Rails 4 applications!
+
 ####[Activerecord Colored Log Subscriber](https://github.com/customink/activerecord-colored_log_subscriber)
 This gem is a tested backport of that colorized logging feature
 
